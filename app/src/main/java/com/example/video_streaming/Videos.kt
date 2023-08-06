@@ -6,9 +6,8 @@ val videoList: List<VideoItem> = listOf(
         source = "https://joy1.videvo.net/videvo_files/video/free/2019-11/large_watermarked/190301_1_25_11_preview.mp4"
     ),
     VideoItem(
-        poster = "https://media.geeksforgeeks.org/wp-content/uploads/20190627130930/a218.png",
-        source = "https://media.geeksforgeeks.org/wp-content/uploads/20190616234019/Canvas.move_.mp4%22"
-
+        poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217",
+        source="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
     ),
     VideoItem(
         poster = "https://joy1.videvo.net/videvo_files/video/free/video0476/thumbnails/_import_621c57f606fce0.63604907_small.jpg",
